@@ -15,3 +15,5 @@ Final Project 1 ini dibuat guna mengevaluasi konsep Regression sebagai berikut:
 * Numpy
 * SKlearn
 * Gunicorn
+---
+Dataset: https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma/download?datasetVersionNumber=2
